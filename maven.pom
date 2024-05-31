@@ -9,12 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.vesel</groupId>
-    <artifactId>pastebox</artifactId>
+    <artifactId>Selsup</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Selsup</name>
     <description>Selsup demo</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
 
